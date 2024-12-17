@@ -20,7 +20,9 @@ This is a Hotel Management System built using Java, designed to manage hotel roo
 [⚙️ How to Run the Project]:-
 Clone the Repository:
 Copy code :- git clone https://github.com/17sachin373/Hotel_management_system.git
+
 Open in IDE: Use IntelliJ IDEA, Eclipse, or any Java IDE.
+
 Compile and Run: Run the Main.java file to start the system
 
 [🧑‍💻 Contributing]:-
