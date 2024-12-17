@@ -1,6 +1,7 @@
 # Hotel_management_system
 
 [📄 Project Description]
+
 This is a Hotel Management System built using Java, designed to manage hotel rooms, bookings, check-ins, and check-outs efficiently.
 
 [🛠️ Key Features]
