@@ -1,9 +1,9 @@
 # Hotel_management_system
 
-##📄 Project Description :-
+###📄 Project Description :-
 This is a Hotel Management System built using Java, designed to manage hotel rooms, bookings, check-ins, and check-outs efficiently.
 
-##[🛠️ Key Features] :-
+###[🛠️ Key Features] :-
 - 1.Add a Room: Add new rooms with details like room number, type, and price.
 - 2.Remove a Room: Delete room entries using the room number.
 - 3.List All Rooms: View all rooms with their details and availability status.
